@@ -1,0 +1,8 @@
+{
+  "directory": "bower_components",
+  "analytics": false,
+  "registry" : "http://sig-artifactory:8081/artifactory/api/bower/bower-local",
+  "resolvers": [
+    "bower-art-resolver"
+  ]
+}
